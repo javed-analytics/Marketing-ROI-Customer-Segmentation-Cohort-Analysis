@@ -31,7 +31,7 @@ The analysis focuses on **ROI efficiency**, **channel attribution**, **customer 
 
 Some visuals represent system-level behavior and are intentionally not slicer-driven to preserve analytical validity.
 
-## Business Impact & Recommendations
+# Business Impact \& Recommendations
 
 ## Marketing Spend Optimization
 
