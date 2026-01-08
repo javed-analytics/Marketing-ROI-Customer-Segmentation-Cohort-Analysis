@@ -37,25 +37,30 @@ Some visuals represent system-level behavior and are intentionally not slicer-dr
 
 Sensitivity analysis shows diminishing ROI at higher budget levels, indicating that increasing spend does not proportionally
 increase returns.
+
 **Recommendation:** Cap or reallocate budget rather than increasing total spend.
 
 ## Channel Strategy
 
 The Store channel delivers the highest ROI despite lower spend, while the Web channel underperforms relative to investment.
+
 **Recommendation:** Shift marginal budget from low-efficiency channels to high-ROI channels.
 
 ## Customer Value Focus
 
 Revenue is highly concentrated among a small group of high-value customers.
+
 **Recommendation:** Prioritize retention, loyalty programs, and personalized offers for high-value segments rather than broad acquisition.
 
 ## Acquisition Quality vs Quantity
 
 Cohort analysis shows that higher customer acquisition volume does not always translate into higher cohort value.
+
 **Recommendation:** Evaluate acquisition campaigns on quality (value) metrics, not volume alone.
 
 ## Lifecycle Engagement
 
 Newer cohorts exhibit lower marketing response rates, suggesting onboarding or early lifecycle engagement gaps.
+
 **Recommendation:** Strengthen early-stage engagement and activation campaigns.
 
