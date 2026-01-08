@@ -31,7 +31,7 @@ The analysis focuses on **ROI efficiency**, **channel attribution**, **customer 
 
 Some visuals represent system-level behavior and are intentionally not slicer-driven to preserve analytical validity.
 
-## Business Impact \& Recommendations
+## Business Impact & Recommendations
 
 ## Marketing Spend Optimization
 
@@ -44,7 +44,7 @@ increase returns.
 The Store channel delivers the highest ROI despite lower spend, while the Web channel underperforms relative to investment.
 **Recommendation:** Shift marginal budget from low-efficiency channels to high-ROI channels.
 
-### Customer Value Focus
+## Customer Value Focus
 
 Revenue is highly concentrated among a small group of high-value customers.
 **Recommendation:** Prioritize retention, loyalty programs, and personalized offers for high-value segments rather than broad acquisition.
