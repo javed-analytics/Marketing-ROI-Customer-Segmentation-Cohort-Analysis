@@ -1,7 +1,7 @@
 # 📊 Marketing ROI, Customer Segmentation \& Cohort Analysis (Excel)
 
 <p align="center">
-<img width="920" height="400" alt="dashboard\_image" src="https://github.com/user-attachments/assets/c334c1b7-325b-4bd9-832e-f289a9d07b8c" />
+<img width="920" height="400" alt="dashboard\\\\\\\_image" src="https://github.com/user-attachments/assets/c334c1b7-325b-4bd9-832e-f289a9d07b8c" />
 </p>
 
 ## Executive Summary
@@ -130,10 +130,10 @@ Increasing spend beyond ~7.7% of revenue produced diminishing returns. The optim
 <table>
   <tr>
     <td>
-      <img width="1109" height="800" alt="overall-roi-budget-sensitivity" src="https://github.com/user-attachments/assets/698afca4-e7cc-4789-bb00-cbbd063d3059" />
+      <img width="400" height="550" alt="overall-roi-budget-sensitivity" src="https://github.com/user-attachments/assets/698afca4-e7cc-4789-bb00-cbbd063d3059" />
     </td>
     <td>
-      <img width="1536" height="990" alt="Picture1" src="https://github.com/user-attachments/assets/c9ec2a19-78c5-44eb-8fe5-4ca209c05adc" />
+      <img width="400" height="550" alt="Picture1" src="https://github.com/user-attachments/assets/c9ec2a19-78c5-44eb-8fe5-4ca209c05adc" />
     </td>
   </tr>
 </table>
@@ -151,10 +151,10 @@ Increasing spend beyond ~7.7% of revenue produced diminishing returns. The optim
 <table>
   <tr>
     <td>
-    <img width="1103" height="974" alt="channel-revenue-pie" src="https://github.com/user-attachments/assets/374ca904-fa70-4c3a-b4f2-72f80cc95e60" />
+    <img width="400" height="500" alt="channel-revenue-pie" src="https://github.com/user-attachments/assets/374ca904-fa70-4c3a-b4f2-72f80cc95e60" />
     </td>
     <td>
-     <img width="1420" height="990" alt="channel-roi-revenue" src="https://github.com/user-attachments/assets/7ad0e6cd-6e4c-46b5-b4c2-31e5a893a92f" />
+     <img width="400" height="500" alt="channel-roi-revenue" src="https://github.com/user-attachments/assets/7ad0e6cd-6e4c-46b5-b4c2-31e5a893a92f" />
     </td>
   </tr>
 </table>
@@ -175,10 +175,10 @@ Average High-Value customer spend (~$1,586) is:
 <table>
   <tr>
     <td>
-      <img width="992" height="1682" alt="Picture3" src="https://github.com/user-attachments/assets/424705b7-1f4d-4b7d-8b76-fd7ef24a7440" />
+      <img width="800" height="550" alt="Picture3" src="https://github.com/user-attachments/assets/424705b7-1f4d-4b7d-8b76-fd7ef24a7440" />
     </td>
     <td>
-      <img width="2179" height="1013" alt="Picture1" src="https://github.com/user-attachments/assets/62dbd0a4-9fc3-404c-b105-c926f900d128" />
+      <img width="1550" height="650" alt="Picture1" src="https://github.com/user-attachments/assets/62dbd0a4-9fc3-404c-b105-c926f900d128" />
     </td>
   </tr>
 </table>
@@ -206,10 +206,10 @@ As cohorts age, **value increases but engagement declines**, highlighting the im
 <table>
   <tr>
     <td>
-     <img width="1637" height="990" alt="Picture6" src="https://github.com/user-attachments/assets/8c8f27ea-c9a8-4692-8f64-9eaacb919412" />
+     <img width="1150" height="550" alt="Picture6" src="https://github.com/user-attachments/assets/8c8f27ea-c9a8-4692-8f64-9eaacb919412" />
     </td>
     <td>
-     <img width="1571" height="990" alt="Picture7" src="https://github.com/user-attachments/assets/28565aa3-6219-4b5a-ac6b-558f4c63f112" />
+     <img width="1150" height="550" alt="Picture7" src="https://github.com/user-attachments/assets/28565aa3-6219-4b5a-ac6b-558f4c63f112" />
     </td>
   </tr>
 </table>
@@ -225,7 +225,7 @@ As cohorts age, **value increases but engagement declines**, highlighting the im
 
 📌 Indicates opportunity for better personalization rather than customer dissatisfaction.
 
-<img width="1473" height="971" alt="Picture5" src="https://github.com/user-attachments/assets/17d0d1aa-0359-40fb-8757-af1ea71b1c67" />
+<img width="500" height="550" alt="Picture5" src="https://github.com/user-attachments/assets/17d0d1aa-0359-40fb-8757-af1ea71b1c67" />
 
 ---
 
@@ -280,3 +280,18 @@ Track ROI, segments, and cohorts regularly and validate insights through A/B tes
 
 ---
 
+### 📄 **Read Complete Case Study:**  [Here](https://github.com/javed-analytics/Marketing-ROI-Customer-Segmentation-Cohort-Analysis/blob/master/docs/complete_case_study.md)
+
+
+
+---
+
+### 📌 Repository Structure \& Navigation:
+
+**This project is organized into folders for clarity:**
+
+* data/ — contains source raw datasets and context ,
+* docs/ — detailed documentation and formula references,
+* exports/ — downloadable output artifacts like charts/dashboard,
+* files/ — main assets such as excel-model and presentation file,
+* README.md/ — to understand the project quickly.
