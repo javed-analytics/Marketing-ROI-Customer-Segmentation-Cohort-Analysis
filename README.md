@@ -59,7 +59,7 @@ Each customer’s revenue was attributed proportionally to channels based on pur
 
 Detailed formulas are documented separately.
 
-📄 **Methodology \& Formula Reference (PDF):**  [View detailed formulas](https://github.com/javed-analytics/Marketing-ROI-Customer-Segmentation-Cohort-Analysis/blob/master/scripts/Excel%20Formulas.pdf)
+📄 **Methodology \& Formula Reference (PDF):**  [View detailed formulas](https://github.com/javed-analytics/Marketing-ROI-Customer-Segmentation-Cohort-Analysis/blob/master/docs/excel_formulas.pdf)
 
 
 
